@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and most sad relation of the hard usage and extrem cruelty used on Captain Wingate, Captaine Vivers, Captaine Austin, Capt: Lidcott, Capt: Walton, Capt; Catsby, Capt: Lilbourne, Master Franklin, Master Freeman, Edward Chillendon, Master John Bayley and his father, with others of the Parliament souldiers, &amp;c. Prisoner at Oxford, under the custody of one Smith Provost-marshall generall to the kings army: / written by one of the same prisoners in behalf of them all, to a vvorthy and eminent citizen of London, dated 9th of February, 1642.</title>
+            <author>One of the same prisoners.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94935</idno>
+            <idno type="STC">Wing T2512</idno>
+            <idno type="STC">Thomason E89_13</idno>
+            <idno type="STC">ESTC R9121</idno>
+            <idno type="EEBO-CITATION">99873472</idno>
+            <idno type="PROQUEST">99873472</idno>
+            <idno type="VID">125948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125948)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and most sad relation of the hard usage and extrem cruelty used on Captain Wingate, Captaine Vivers, Captaine Austin, Capt: Lidcott, Capt: Walton, Capt; Catsby, Capt: Lilbourne, Master Franklin, Master Freeman, Edward Chillendon, Master John Bayley and his father, with others of the Parliament souldiers, &amp;c. Prisoner at Oxford, under the custody of one Smith Provost-marshall generall to the kings army: / written by one of the same prisoners in behalf of them all, to a vvorthy and eminent citizen of London, dated 9th of February, 1642.</title>
+                  <author>One of the same prisoners.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Hutton, at the Turn'd-Style in Holborne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb: 13. 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A straightforward and apparently unexaggerated account of somewhat harsh treatment meted out to those prisoners in Oxford Castle who would not sign a protestation of loyalty by Capt. William Smith." -- cf. Madan.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, William, --  Provost Marshall General.</term>
+               <term>Wingate, --  Captain.</term>
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125948:1" rendition="simple:additions"/>
+            <p>A true and moſt ſad RELATION OF The hard uſage and exrtrem cruelty uſed ON Captain <hi>Wingate,</hi> Captaine <hi>Viuers,</hi> Captaine <hi>Auſtin,</hi> Capt: <hi>Lidcott,</hi> Capt: <hi>Walton,</hi> Capt; <hi>Catsby,</hi> Capt: <hi>Lilbourne,</hi> Maſter <hi>Franklin,</hi> Maſter <hi>Freeman, Ed<g ref="char:EOLhyphen"/>ward Chillendon,</hi> Maſter <hi>John Bayley</hi> and his Father, with others of the Parliament Souldiers, &amp;c. Priſo<g ref="char:EOLhyphen"/>ner at OXFORD, under the cuſtody of ONE <hi>SMITH</hi> Provoſt-Marſhall Generall to the KINGS Army: Written by one of the ſame Priſoners in behalf of them all, TO A VVorthy and eminent Citizen of LONDON, Dated 9th of <hi>February,</hi> 1642.</p>
+            <p>
+               <hi>London,</hi> Printed for GEORGE HUTTON, at the <hi>Turn'd-Style</hi> in Holborne, <hi>Feb:</hi> 13. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125948:2"/>
+            <pb n="3" facs="tcp:125948:2"/>
+            <head>A True and moſt ſad Relation of the hard uſage and extreame cruelty uſed on Captain <hi>Wingate,</hi> Captaine <hi>Viuers,</hi> and others.</head>
+            <p>SIr, I was deſired (by the Captains and Gen<g ref="char:EOLhyphen"/>tlemen here in priſon) to let you underſtand the truth of our uſage here by Captain <hi>William Smith,</hi> who is Provoſt-Marſhall Generall to the Kings Army; Sir it is thus, That Captain <hi>Wingate,</hi> Capt. <hi>Viuers,</hi> Cap. <hi>Auſtine,</hi> Capt. <hi>Lidcott,</hi> Cap. <hi>Walton,</hi> Capt, <hi>Catsby,</hi> Capt. <hi>Lilburne,</hi> and Maſter <hi>Franklin,</hi> Burgeſſe of the Parliament for the Town of <hi>Marlbrough,</hi> and <hi>Edward Chillenden,</hi> are all of the lockt up cloſe priſoners in their Chambers, and no man ſuffered to ſpeak with them, and though they have Beds of their own to lye on, yet when he pleaſes he will diſplace them out of their own beds, and place others in them contrary to their wills: and for the common Souldiers and ſuch
+<pb n="4" facs="tcp:125948:3"/>
+as my ſelf their uſage is thus, upon the complaint of any of thoſe they call the Kings Souldiers, which are here in priſon, though the things were falſe and never was ſpoken nor acted, yet if they do but ſay it, we are preſently clapped in irons and tyed neck and heeles together, and called damned Traytours, we ſhall all be hanged and ſtarved, and are beaten by him with his Caine; and abuſed by every boy of his, yea even the Cap<g ref="char:EOLhyphen"/>tains as well as the reſt, and his boyes will abuſe them ſo too; And further he hath a Proteſtation, which he doth tender to all that do come into priſon here, and doth force them to take it, and if they will not take it, (though it be againſt the light of their conſcience and knowledge, and a<g ref="char:EOLhyphen"/>gainſt the Law of this Land, and the liberty of the Subject, as indeed it is in a high degree; yet he will clap them up in irons, necke and heeles, and feed them with bread and water, nay heele make them to be all a whole day without a bitt of any thing, as he did one Maſter <hi>Freeman,</hi> and one of <hi>Marthrough</hi> Souldiers to force them to take it, and a guard was ſet on them, and no man ſuf<g ref="char:EOLhyphen"/>fered to give them any relief: and after all this when his pleaſure is, that they have bin long e<g ref="char:EOLhyphen"/>nough
+<pb n="5" facs="tcp:125948:3"/>
+thus, he clapt them up into the Tower as they call it, and there feed them with bread and water, which is at night, once a day halfe a penny loſe and a can of water, and will not ſuffer any friend neither in priſon nor out, to relieve them with any thing: but lockes them up cloſe that none can come to them, and thus he ſwares hee will uſe us all if we will not take the Proteſtati<g ref="char:EOLhyphen"/>on: and this day there was meat ſent to the pri<g ref="char:EOLhyphen"/>ſoners in the Tower, and it was not ſuffered to come to them.</p>
+            <p>And upon Saturday being the twenty ſeventh of January, there was ſome monies ſent to the aforeſaid Maſter <hi>Freeman</hi> that he had clapt necke and heeles together for not taking the Proteſta<g ref="char:EOLhyphen"/>tion, and he himſelf took it from him and will not let him have it to buy himſelf food vvith, but ſtill feeds him vvith a halfe a penny bread and vvater a day, and ſvvears moſt fearfull oaths he vvill make him and all that vvill not take the Proteſtation to ſhit as ſmall as a Rat: and here is one Maſter <hi>Iohn Bayley</hi> that was taken at <hi>Marl<g ref="char:EOLhyphen"/>brough,</hi> and his father hath paid two hundred pounds for his and his ſons ranſome, yet his ſayd ſon is kept priſoner, only becauſe he will
+<pb n="6" facs="tcp:125948:4"/>
+not take the Proteſtation: And here is one Mr. <hi>Dunden</hi> a Counſtable that hath taken the Pro<g ref="char:EOLhyphen"/>teſtation, and becauſe he will not pay 59 pounds for his Fees, hee is kept here priſoner.</p>
+            <p>Sir, this is miſerable to conſider and think of, and if you were here to ſee it your very heart would be filled with grief, to ſee that poore Chriſtians ſhould be ſo uſed; Therefore Sir I am intreated in the name of all the Gentlemen here in priſon, that you would make this known to the Parliament and to the honourable City of <hi>London,</hi> and in particular to the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord <hi>Brook:</hi> And it is deſired and that by the Gentlemen here, that thoſe priſoners you have there may ſo be uſed, and not releaſed from ſuch uſage till there be a Certificate come from us to you of our better uſage, and withall I am further deſired to let you know, that the Gentlemen and Priſoners have preferred to the King and Councell of War, a Petition and Articles againſt this <hi>Smith</hi> and no hearing can be obtained; Therefore it is deſired you would be pleaſed to move the Parliament, and in particu<g ref="char:EOLhyphen"/>lar my Lord <hi>Brook,</hi> that they vvould vvrite to the Earl of <hi>Lindſey</hi> to deſire him to vvrite to the
+<pb n="7" facs="tcp:125948:4"/>
+King, That His Majeſty would be pleaſed to give command that the Petition and Articles may be examined, and then no queſtion is made but the King will ſee how baſely Hee is abuſed by thoſe who ſay they are His beſt Subjects.</p>
+            <p>One thing more of ſpeciall note is, that the Gentlemen of this houſe taking pitty of us poor diſtreſſed men that want both money and food, did liberally contribute to our relief, and made one Maſter <hi>Kinsſly</hi> a Lieutenant of horſe to be ſteward of it to ſee it diſpoſed of, the which if they had not down, I am confident halfe of us had bin dead ere this with hunger, one was ſtar<g ref="char:EOLhyphen"/>ved to death, another w<hi rend="sup">ch</hi> was wounded by <hi>Smith,</hi> the Chyrurgeon not permitted to come to dreſſe him, dyed alſo for want of looking to; ano<g ref="char:EOLhyphen"/>ther died, and another is like to dye, and all with ill uſage, and now <hi>Smith</hi> vvill not let the money bee given to them, but hath given ſtrickt command to the contrary, and hath charged his ſervants to ſee that it be ſo obſerved as he hath commanded.</p>
+            <p>The Chyrurgeon is committed here to pri<g ref="char:EOLhyphen"/>ſon
+<pb n="8" facs="tcp:125948:5"/>
+becauſe he reported the truth, that the pri<g ref="char:EOLhyphen"/>ſoners vvere ſtarved and loſt for vvant of loo<g ref="char:EOLhyphen"/>king to.</p>
+            <p>This is all truth that I have written every tit<g ref="char:EOLhyphen"/>tle of it, which all in the priſon will witneſſe and ſeale to.</p>
+            <closer>
+               <dateline>Oxford, <date>Febr: 9. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
